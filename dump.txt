@@ -1,0 +1,58 @@
+commit 30e52fa7038583e1b1a46c77fc5eae6bc45dbf64
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sun Nov 3 20:26:41 2024 +0100
+
+    Añadir archivos de proyecto y corregir advertencias de configuración
+
+commit c4cafb6af981bcb9bb8f337255f2c6974beb59ad
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 20:17:02 2024 +0100
+
+    Guardar progreso de trabajo en el código
+
+commit d67ab042187d0f0b90fbdd6999450b5caac8422c
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 20:15:22 2024 +0100
+
+    Añadir archivos de proyecto y corregir advertencias de configuración
+
+commit 0c7e847c7a3e582185a204ed80e4f5ffdc890c40
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 14:09:07 2024 +0100
+
+    Actualizar dump.txt con todos los registros de log
+
+commit b8bb1909fd6e6235b1a922262c9f1d9c1554b13a
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 13:42:39 2024 +0100
+
+    Añadir archivo de log
+commit 30e52fa7038583e1b1a46c77fc5eae6bc45dbf64
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sun Nov 3 20:26:41 2024 +0100
+
+    Añadir archivos de proyecto y corregir advertencias de configuración
+
+commit c4cafb6af981bcb9bb8f337255f2c6974beb59ad
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 20:17:02 2024 +0100
+
+    Guardar progreso de trabajo en el código
+
+commit d67ab042187d0f0b90fbdd6999450b5caac8422c
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 20:15:22 2024 +0100
+
+    Añadir archivos de proyecto y corregir advertencias de configuración
+
+commit 0c7e847c7a3e582185a204ed80e4f5ffdc890c40
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 14:09:07 2024 +0100
+
+    Actualizar dump.txt con todos los registros de log
+
+commit b8bb1909fd6e6235b1a922262c9f1d9c1554b13a
+Author: santiagohdq <santiagohdq@gmail.com>
+Date:   Sat Nov 2 13:42:39 2024 +0100
+
+    Añadir archivo de log
